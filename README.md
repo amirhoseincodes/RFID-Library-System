@@ -89,7 +89,7 @@ MR6100Demo-gate/
 |   ├── InventoryForm.cs
 |
 ├── log/
-│   └── [فایل‌های صوتی]
+│   
 │
 ├── Program.cs
 ├── Tools.cs
