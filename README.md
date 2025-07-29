@@ -127,9 +127,13 @@ MR6100Demo-gate/
 
 ## 📸 Screenshots
 tag detection, book info editing, reader setting and RFID scan logs.
+<img width="1602" height="883" alt="Screenshot 2025-07-29 104229" src="https://github.com/user-attachments/assets/8f7f9f3c-20ef-4e25-b027-0cdb982a3de6" />
 
-> ![[Screenshot 2025-07-29 104229.png]]_Add screenshots here showing t![[multiFormExample.png]]_
-![[Appearance2.png]]
+<img width="1609" height="888" alt="Screenshot 2025-07-28 205128" src="https://github.com/user-attachments/assets/f86bf4e4-82c1-4280-8e6d-fa241c169591" />
+
+<img width="1523" height="487" alt="Screenshot 2025-07-28 203210" src="https://github.com/user-attachments/assets/395ba800-4a16-44d2-ad40-5d5cf2b68e24" />
+
+
 ---
 
 ## 🚀 How to Run
