@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MR6100Demo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.255.11:8089</Value>
+    </Setting>
+    <Setting Name="beep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Assets/Audio/beep2.wav</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
